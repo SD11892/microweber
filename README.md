@@ -9,7 +9,6 @@
 [Requirements](#requirements) |
 [Installation](#installation) |
 [Getting Started](#getting-started) |
-[Contribute](#contribute)**
 
 
 ---
