@@ -174,11 +174,6 @@ You can join our Discord server [here](https://microweber.org/go/discord).
 
 ## Contributors
 
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/microweber/microweber/graphs/contributors"><img src="https://opencollective.com/microweber/contributors.svg?width=890&button=false" /></a>
-
 ### Financial Contributors
 
 Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/microweber/contribute)]
